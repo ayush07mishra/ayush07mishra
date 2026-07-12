@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ayush;AI+Engineer;Data Engineer;Open+Source+Contributor;Building+Things+People+Love" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ayush;AI+Engineer;Data Engineer;Open+Source+Contributor;Building+Things+People+Love" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayush07mishra&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
