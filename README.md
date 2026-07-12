@@ -1,111 +1,83 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ayush;AI+Engineer;Data Engineer;Open+Source+Contributor;Building+Things+People+Love" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:06b6d4&text=Ayush%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayush07mishra&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ayush07mishra?style=for-the-badge&logo=github&color=8b5cf6" />
-<img src="https://img.shields.io/github/stars/ayush07mishra?style=for-the-badge&logo=github&color=facc15" />
-</p>
+<br>
 
-<h3>
-Building beautiful software • AI  • Open Source • Automation
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Science+Enthusiast;Building+Intelligent+Systems"/>
+
+<br><br>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Ayush Mishra
-Location: India 🇮🇳
-Role: AI Engineer
+```python
+class AyushMishra():
 
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Engineering
-  - AI Agents
-  - Automation
+    def __init__(self):
+        self.role = "AI & Machine Learning Developer"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Deep Learning"
+        ]
+
+        self.currently_learning = [
+            "LLMs",
+            "MLOps",
+            "Generative AI"
+        ]
+
+    def life():
+        return "Learn • Build • Improve"
 ```
 
 ---
 
-# 🚀 Tech Universe
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,sklearn,pandas,numpy,mysql,mongodb,git,github,vscode,linux&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,java,html,css,bash"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,firebase"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase"/>
-
-### AI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-</p>
+</div>
 
 
-### Cloud
+---
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify"/>
+<div align="center">
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://streak-stats.demolab.com?user=ayush07mishra&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🧠 AI Quote
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush07mishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush07mishra&layout=compact&theme=tokyonight&hide_border=true"/>
+> *"The goal isn't to replace human intelligence, but to amplify it through intelligent systems."*
 
 </div>
 
 ---
 
-# ⚡ Contribution Streak
+## 🌌 Currently Exploring
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayush07mishra&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayush07mishra&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</div>
+- 🤖 Large Language Models
+- 🧠 Deep Learning
+- 📊 Data Analytics
+- 👁️ Computer Vision
+- ⚙️ MLOps
+- ☁️ Cloud AI
 
 ---
-
-# 📈 Contribution Graph
 
 <div align="center">
 
@@ -115,64 +87,10 @@ Focus:
 
 ---
 
-# 🌌 Current Mission
-
-```text
-█████████████████████░░░░░░░░░░░ 65%
-
-✔ Building AI Projects
-✔ Learning Cloud
-✔ Contributing to Open Source
-✔ Creating Beautiful Interfaces
-□ Launching SaaS
-□ Building Developer Tools
-```
-
----
-
-# 🧠 Developer Philosophy
-
-> "Great software is invisible.
-> Users remember how it made them feel,
-> not how complicated it was."
-
----
-
-# 📅 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-Python        ███████████████░░░   70%
-C++           ████████░░░░░░░░░░   28%
-JavaScript    ███░░░░░░░░░░░░░░░    8%
-Other         ██░░░░░░░░░░░░░░░░    4%
-```
-<!--END_SECTION:waka-->
-
----
-
-# 🌍 Connect With Me
-
 <div align="center">
 
-<a href="https://linkedin.com/in/ayush-mishra032">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Thanks for visiting ⭐
 
-<a href="mailto:mishra108ayush@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Thanks for visiting!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&width=600&lines=Happy+Coding!;Keep+Learning.;See+You+Again!"/>
-
-⭐ If you like my work, consider following me.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=818CF8&center=true&width=450&lines=Code.+Train.+Deploy.;Keep+Learning+Every+Day."/>
 
 </div>
